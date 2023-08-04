@@ -2,7 +2,7 @@
 
 > Status do projeto: Concluído :white_check_mark:
 
-Essa é uma solução para o projeto [NFT Card Component](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)
+Essa é uma solução para o projeto [NFT Card Component](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)!
 
 ## Overview
 
